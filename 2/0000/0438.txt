@@ -1,80 +1,80 @@
-なし
-アフガニスタン
-アルバニア
-アルジェリア
-アメリカりょうサモア
-アンドラ
-アンゴラ
-アンギラ
-アンティグア・バーブーダ
-アルゼンチン
-アルメニア
-アルバ
-オーストラリア
-オーストリア
-アゼルバイジャン
-バハマ
-バーレーン
-バングラデシュ
-バルバドス
-ベラルーシ
-ベルギー
-ベリーズ
-ベナン
-バミューダ
-ブータン
-ボリビア
-ボスニア・ヘルツェゴビナ
-ボツワナ
-ブラジル
-イギリスりょうバージンしょとう
-ブルネイ
-ブルガリア
-ブルキナファソ
-ブルンジ
-カンボジア
-カメルーン
-カナダ
-カーボベルデ
-ケイマンしょとう
-ちゅうおうアフリカ
-チャド
-チャネルしょとう
-チリ
-ちゅうごく
-クリスマスとう
-コロンビア
-コモロ
-コンゴきょうわこく
-クックしょとう
-コスタリカ
-コートジボワール
-クロアチア
-キューバ
-キプロス
-チェコ
-きたちょうせん
-コンゴみんしゅきょうわこく
-ひがしティモール
-デンマーク
-ジブチ
-ドミニカ
-ドミニカきょうわこく
-エクアドル
-エジプト
-エルサルバドル
-せきどうギニア
-エリトリア
-エストニア
-エチオピア
-フォークランド（マルビナス)しょとう
-フェローしょとう
-フィジーしょとう
-フィンランド
-フランス
-フランスりょうギアナ
-フランスりょうポリネシア
-ガボン
+RETOUR
+Afganistan
+Albanie
+Algérie
+Samoa Américaines
+Andorre
+Angola
+Anguilla
+Antigua-et-Barbuda
+Argentine
+Arménie
+Aruba
+Australie
+Autriche
+Azerbaïdjan
+Bahamas
+Bahreïn
+Bangladesh
+Barbade
+Biélorussie
+Belgique
+Belize
+Bénin
+Bermudes
+Bhoutan
+Bolivie
+Boznie-Herzégovine
+Botswana
+Brésil
+Îles Vierges
+Brunei
+Bulgarie
+Burkina Faso
+Burundi
+Cambodge
+Cameroun
+Canada
+Cap Vert
+Îles Caïman
+République Centrafricaine
+Tchad
+Îles Anglo-Normandes
+Chili
+Chine
+Île Christmas
+Colombie
+Comores
+République du Congo
+Îles Cook
+Costa Rica
+Côte d'Ivoire
+Croatie
+Cuba
+Chypre
+Tchèquie
+Corée du Nord
+République Démacratique du Congo
+Timor Oriental
+Danemark
+Djibouti
+Dominique
+République Dominicaine
+Équateur
+Égypte
+Salvador
+République de Guinée Équatoriale
+Érythrée
+Estonie
+Éthiopie
+Îles Malouines
+Îles Féroé
+Îles Fidji
+Finlande
+France
+Guyane Française
+Ploynésie Française
+Gabon
 ガンビア
 グルジア
 ドイツ
